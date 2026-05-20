@@ -85,7 +85,7 @@
 <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parimallpradhan&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
----
+
 
 # 🏆 GitHub Trophies
 
@@ -126,6 +126,7 @@ Operating Systems:
 
 Scripting:
   - Bash
+---
 
 
 
