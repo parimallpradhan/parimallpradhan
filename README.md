@@ -126,7 +126,7 @@ Operating Systems:
 
 Scripting:
   - Bash
----
+
 
 
 
