@@ -72,9 +72,9 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parimall&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=parimallpradhan&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parimall&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=parimallpradhan&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -82,7 +82,7 @@
 
 <div align="center">
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parimall&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parimallpradhan&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 ---
@@ -91,7 +91,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=parimall&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=parimallpradhan&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </div>
 
