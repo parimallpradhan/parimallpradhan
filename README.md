@@ -30,6 +30,34 @@
 
 ---
 
+# 💼 Featured Projects (Real Client Work)
+
+## 🌐 Live Deployments
+
+### 🔹 Coastal Properties (Real Estate Website)
+- 🔗 https://coastalproperties.info/
+- 🧩 Designed and deployed a production-ready real estate website
+- ⚙️ Configured domain, DNS, hosting, and SSL
+
+---
+
+### 🔹 SMTS Pune (Business Website)
+- 🔗 http://www.smtspune.com/
+- 🧩 Developed and hosted business website for client
+- ⚙️ Managed deployment, hosting, and security configuration
+
+---
+
+## ⚙️ What I Did
+
+- Domain & DNS Configuration  
+- Website Deployment (Production)  
+- Hosting Setup (Hostinger)  
+- SSL (HTTPS) Configuration  
+- Client Requirement Handling  
+
+---
+
 # 🌐 Connect With Me
 
 <p align="left">
