@@ -4,7 +4,7 @@
 
 ### ☁️ Cloud DevOps Engineer from India 🇮🇳
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+CI%2FCD;Terraform+%7C+Docker+%7C+Linux;4%2B+Years+DevOps+Experience;11%2B+Years+IT+Experience;Automation+%7C+Cloud+%7C+Infrastructure" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+CI%2FCD;Terraform+%7C+Docker+%7C+Linux;5%2B+Years+DevOps+Experience;12%2B+Years+IT+Experience;Automation+%7C+Cloud+%7C+Infrastructure" />
 
 <br><br>
 
