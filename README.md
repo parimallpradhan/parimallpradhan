@@ -59,7 +59,23 @@
 ---
 
 # 📂 Project Portfolio
-### 🔹 [CI-CD-Pipeline-on-Kubernetes](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes)
+
+## 🔹 Enterprise DevSecOps CI/CD Pipeline
+
+AWS | Jenkins | Docker | Kubernetes | Trivy | CloudWatch
+
+✔ GitHub Webhook
+✔ Maven Build
+✔ Docker Build
+✔ Security Scan
+✔ Docker Hub
+✔ Kubernetes Deployment
+✔ Rolling Updates
+✔ CloudWatch Monitoring
+
+➡ [View Project] (https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes)
+
+
 ---
 
 # 🌐 Connect With Me
