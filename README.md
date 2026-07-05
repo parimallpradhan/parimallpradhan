@@ -65,15 +65,22 @@
 AWS | Jenkins | Docker | Kubernetes | Trivy | CloudWatch
 
 ✔ GitHub Webhook
+
 ✔ Maven Build
+
 ✔ Docker Build
+
 ✔ Security Scan
+
 ✔ Docker Hub
+
 ✔ Kubernetes Deployment
+
 ✔ Rolling Updates
+
 ✔ CloudWatch Monitoring
 
-➡ [View Project] (https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes)
+➡ [View Project](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes)
 
 
 ---
