@@ -47,8 +47,7 @@
 - ⚙️ Managed deployment, hosting, and security configuration
 
 ---
-### 🔹 CI-CD-Pipeline-on-Kubernetes
-https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes
+### 🔹 [CI-CD-Pipeline-on-Kubernetes](https://github.com/parimallpradhan/CI-CD-Pipeline-on-Kubernetes)
 
 ## ⚙️ What I Did
 
