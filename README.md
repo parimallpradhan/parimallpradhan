@@ -34,11 +34,10 @@
 
 ## 🌐 Live Deployments
 
-### 🔹 Coastal Properties (Real Estate Website)
-- 🔗 https://coastalproperties.info/
-- 🧩 Designed and deployed a production-ready real estate website
-- ⚙️ Configured domain, DNS, hosting, and SSL
-
+### 🔹 Ecommerce Project
+- 🔗 https://github.com/parimallpradhan/ecommerce-app.git
+- 🧩 Java web application from GitHub, build and test it with Maven, package it as a WAR file, and deploy it automatically to an Apache Tomcat server using the Publish Over SSH plugin.
+- ⚙️ Install and Configured Jenkins and Tomcat server on EC2
 ---
 
 ### 🔹 SMTS Pune (Business Website)
